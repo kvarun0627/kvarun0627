@@ -23,9 +23,9 @@
 
 - 💻 **Languages:** Python, C++, Java, SQL
 - 🌐 **Backend:** Django, Django REST Framework, Celery
-- 🗃️ **Databases:** PostgreSQL, MySQL, SQLite
-- 🧰 **Tools:** Redis, Docker, Git, GitHub Actions
-- ☁️ **Cloud (Learning):** AWS (EC2, S3, RDS, IAM, Route 53, CloudWatch)
+- 🗃️ **Databases:** PostgreSQL, SQL
+- 🧰 **Tools:** Redis, Docker, Git
+- ☁️ **Cloud (Learning):** AWS (EC2, S3, RDS, IAM)
 
 ---
 

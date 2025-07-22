@@ -17,7 +17,7 @@
 ---
 ## 🧠 LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kvarun0627?theme=dark&font=Baloo&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vk272006?theme=dark&font=Baloo&ext=contest)
 ## 🛠️ Tech Stack
 ---
 

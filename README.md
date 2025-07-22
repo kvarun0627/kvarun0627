@@ -15,8 +15,11 @@
 - 🌱 Exploring AWS for production deployment and performance optimization
 
 ---
+## 🧠 LeetCode Stats
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/kvarun0627?theme=dark&font=Baloo&ext=contest)
 ## 🛠️ Tech Stack
+---
 
 - 💻 **Languages:** Python, C++, Java, SQL
 - 🌐 **Backend:** Django, Django REST Framework, Celery
